@@ -11,6 +11,7 @@
 ![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20tabel%20detailpinjam.png)
 
 ![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20tabel%20buku.png)
-7
+
+![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20tabel%20anggota.png)
 
 
