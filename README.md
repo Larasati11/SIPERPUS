@@ -24,6 +24,6 @@
 
 ![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20databuku.2.png)
 
-![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20datanggota.png)
+![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20datanggota1.png)
 
-![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20datapeminjaman.png)
+![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20datappeminjaman.png)
