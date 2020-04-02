@@ -27,3 +27,7 @@
 ![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20formkembali.png)
 
 ![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20detail.png)
+
+![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20editpeminjaman.png)
+
+![AltText](https://github.com/Larasati11/SIPERPUS/blob/master/siperpus%20login.png)
